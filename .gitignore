@@ -1,0 +1,4 @@
+node_modules
+storage/data
+src/config/firebase.json
+src/config/constant.ts
